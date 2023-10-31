@@ -1,0 +1,63 @@
+body{
+    margin: 0px 0px;
+    
+}
+h1{
+    font-size: 50px;
+    font-weight: 700;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+}
+p{
+    color: darkgrey;
+}
+.orange-highlite{
+    color: crimson;
+    font-weight: 700;
+}
+.href-with{
+    width: 40%;
+    float: left;
+ 
+    padding-left: 2%;
+}
+.third-with{
+    width: 30%;
+    float: left;
+    
+   
+}
+img{
+    width: 80%;
+}
+.top-benar{
+    background-image: url(header-bg.png);
+    background-repeat: no-repeat;
+    margin: 10%;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+}
+.Biography{
+    background-image: url(biography-bg.png);
+    background-repeat: no-repeat;
+    margin: 10%;
+}
+.my-work{
+    background-image: url(footer-bg.png);
+    background-repeat: no-repeat;
+    margin: 10%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
